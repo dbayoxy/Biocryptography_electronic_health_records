@@ -31,6 +31,6 @@ do single-click feature extraction from images.
 3. SQL
 
 # Hardware
-1. Secugen fingerprint biometric device (you can comment out the section of the code requiring this out)
+1. Secugen fingerprint biometric device (you can comment out the section of the code requiring this)
 
-2. CMIIRIS scanner BMT-20 (you can comment out the section of the code requiring this out)
+2. CMIIRIS scanner BMT-20 (you can comment out the section of the code requiring this)
